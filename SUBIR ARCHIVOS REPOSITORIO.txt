@@ -1,0 +1,8 @@
+# 1. Prepara todos los archivos
+git add .
+
+# 2. Confirma los cambios con un mensaje
+git commit -m "refactor: Corregir errores en la validación de formularios"
+
+# 3. Descarga los cambios de otros (sincroniza)
+git pull origin main
